@@ -101,10 +101,7 @@ body{
     margin-bottom: 30px;
 }
 
-.about_text{
-    /* width: 464px;
-    height: 90px; */
-    
+.about_text{  
     font-family: Mulish;
     font-style: normal;
     font-weight: normal;
@@ -154,10 +151,6 @@ body{
     box-sizing: border-box;
     border-radius: 10px;
 
-    /* font-weight: bold;
-    font-size: 17px;
-    line-height: 22px; */
-
     width: 302px;
     margin-right: 31px;
     padding: 14px;
@@ -191,7 +184,6 @@ body{
     
     color: #19191B;
 }
-
 
 .plan{
     margin-bottom: 132px;
@@ -249,7 +241,6 @@ padding: 34px 0 27px;
 .item_title{
     font-weight: bold;
     font-size: 60px;
-    line-height: 56px;
 
     letter-spacing: -1.03448px;
 
@@ -286,55 +277,6 @@ padding: 34px 0 27px;
     background: #9F3919;
 }
 
-/* .therd_flex{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-top: 85px;
-    margin-bottom: 132px;
-}
-
-.therd_text{
-    font-size: 60px;
-    line-height: 70px;
-
-    letter-spacing: -1.87579px;
-
-    color: #19191B;
-}
-
-.card{
-    margin-top: 110px;
-    width: 330px;
-    height: 441px;
-    
-    background: #FF7143;
-    box-shadow: 0px 32px 34px rgba(255, 112, 59, 0.317827);
-    border-radius: 10px;
-}
-
-.text{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
-    align-content: stretch;
-}
-
-.text_style{
-margin-top: 34px;
-height: 28px;
-left: 41.97%;
-right: 41.67%;
-top: calc(50% - 28px/2 - 172.5px);
-
-font-family: DM Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 28px;
-/* identical to box height, or 156% */
-
 
 .footer{
     padding: 53px 0;
@@ -345,32 +287,3 @@ line-height: 28px;
 .footer_nav{
     margin-left: 335px;
 }
-
-
-
-
-
-
-
-
-/* .footer_nav_li{
-    display: inline-block;
-    margin-left: 924px;
-
-}
-
-.footer_nav_li:not(:first-of-type) {
-    margin-left: 49px;
-}
-
-.footer_nav_link{
-        font-weight: bold;
-        font-size: 15px;
-        line-height: 20px;
-        text-decoration: none;
-        color: #696871;
-    }
-        a:hover {
-            color: black;
-            transition: 300ms;
-    } */
